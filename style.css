@@ -1,0 +1,14 @@
+html,
+body {
+  background: #373333;
+  display: flex;
+  height: 100%;
+  align-items: center;
+  justify-content: center;
+}
+#animatedLogo {
+  max-height: 90vmin;
+  max-width: 90vmin;
+  background-image: url("http://lumencipher.com/images/animated_logo_bg.svg");
+  background-size: cover;
+}
